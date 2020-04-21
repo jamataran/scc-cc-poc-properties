@@ -1,2 +1,3 @@
 # scc-cc-poc-properties
-POC's Centralized Configuration using SCC
+
+Repository used to store the application's config. 
